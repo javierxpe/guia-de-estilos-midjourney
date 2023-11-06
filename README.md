@@ -384,10 +384,3 @@
     <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/button_more_comparison_pages_light.webp?raw=true" width = 758>
     <img alt="More Comparison Pages..." src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/button_more_comparison_pages.webp?raw=true" width = 758>
 </picture></a>
-
-</div>
-
-<hr><!--------------->
-<div align="center">
-<h6><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference">Created By Will Wulfken</a></h6>
-</div>
