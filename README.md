@@ -1,12 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Images/Repo_Parts/Banner/banner_dark.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
-  <img alt="Midjourney Styles and Keywords Reference" src="/Images/Repo_Parts/Banner/banner_light.png?raw=true">
-</picture>
-<br><br>
-
-<blockquote><h6>DISCLAMER: I am not officially affiliated with MidJourney. I am simply a user/member who enjoys using their service.</h6></blockquote>
-
 <hr><!--------------->
 
 <div align="center">
